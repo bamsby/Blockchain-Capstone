@@ -22,10 +22,6 @@ const mnemonic = "candy maple cake sugar pudding cream honey rich smooth crumble
  *
  */
 
-const HDWalletProvider = require('truffle-hdwallet-provider');
-const infuraKey = "a42eda24e65a4021835ba4cad3587383";
-const mnemonic = "candy maple cake sugar pudding cream honey rich smooth crumble sweet treat";
-
 module.exports = {
   /**
    * Networks define how you connect to your ethereum client and let you set the
